@@ -31,19 +31,19 @@ const Digvijay = {
 
 # 🌐 My Socials:
 <div align="center">
-<a href="https://www.linkedin.com/in/ankur-sarkar" target="_blank">
+<a href="https://www.linkedin.com/in/digvijaybendre7000/" target="_blank">
   <img align="left" width="42px" src="https://i.ibb.co/drvwWtB/Linkedin.png"  />
 </a>
-<a href="mailto:sarkarrohonankur@gmail.com">
+<a href="mailto:bendredigvijay@gmail.com">
   <img align="left" width="42px" src="https://i.ibb.co/bPCr08L/Email.png"  />
 </a>
-<a href="https://www.hackerrank.com/God_Slayer" target="_blank">
+<a href="https://www.hackerrank.com/dashboard" target="_blank">
   <img align="left" width="42px" src="https://i.ibb.co/6WCLSb2/Hacker-Rank.png"  />
 </a>
-<a href="https://auth.geeksforgeeks.org/user/ankurrohonsarkar/profile" target="_blank">
+<a href="https://auth.geeksforgeeks.org/user/digvijay7000" target="_blank">
   <img align="left" width="42px" src="gfg.png"  />
 </a>
-<a href="https://www.codechef.com/users/ankur02sarkar" target="_blank">
+<a href="https://leetcode.com/DigvijayBendre/" target="_blank">
   <img align="left" width="42px" src="https://i.ibb.co/9Yr67f9/CodeChef.png"  />
 </a>
 </div>
@@ -80,7 +80,7 @@ const Digvijay = {
 # ⭐ Stats 
 <div align="center">
 
-[![My GitHub Activity](https://activity-graph.herokuapp.com/graph?username=ankur02sarkar&theme=xcode)](https://github.com/ankur02sarkar) 
+[![My GitHub Activity](https://activity-graph.herokuapp.com/graph?username=ankur02sarkar&theme=xcode)](https://github.com/DigvijayBendre) 
 <br>
 
 </div>
@@ -88,7 +88,7 @@ const Digvijay = {
 # ⭐ GeeksForGeeks Profile 
 <div align="center">
 
-[![My GfG stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=ankur02sarkar)](https://auth.geeksforgeeks.org/user/ankurrohonsarkar/profile) -->
+[![My GfG stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=digvijaybendre)](https://auth.geeksforgeeks.org/user/digvijay7000) -->
 <br>
 
 </div>
